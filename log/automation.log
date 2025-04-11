@@ -1,0 +1,720 @@
+2025-04-07 09:33:17,206 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Started- TC001_AccountRegistrationTest ***********
+2025-04-07 09:33:21,216 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked On Register- TC001_AccountRegistrationTest ***********
+2025-04-07 09:33:21,627 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Providing Customer Details ***********
+2025-04-07 09:33:26,167 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected Details ***********
+2025-04-07 09:33:26,209 [main] INFO  testCases.TC001_AccountRegistrationTest - Finisheeeeeed logs...
+2025-04-07 09:38:30,452 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Started- TC001_AccountRegistrationTest ***********
+2025-04-07 09:38:33,348 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked On Register- TC001_AccountRegistrationTest ***********
+2025-04-07 09:38:33,356 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Providing Customer Details ***********
+2025-04-07 09:38:37,007 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected Details ***********
+2025-04-07 10:46:16,976 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Started- TC001_AccountRegistrationTest ***********
+2025-04-07 10:46:38,472 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked On Register- TC001_AccountRegistrationTest ***********
+2025-04-07 10:46:38,600 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Providing Customer Details ***********
+2025-04-07 10:46:48,305 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected Details ***********
+2025-04-07 10:46:48,326 [main] INFO  testCases.TC001_AccountRegistrationTest - Finisheeeeeed logs...
+2025-04-07 10:47:43,658 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Started- TC001_AccountRegistrationTest ***********
+2025-04-07 10:47:43,903 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+2025-04-07 10:47:43,904 [main] DEBUG testCases.TC001_AccountRegistrationTest - Dubug logs...
+2025-04-07 10:48:55,774 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Started- TC001_AccountRegistrationTest ***********
+2025-04-07 10:48:55,836 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+2025-04-07 10:48:55,837 [main] DEBUG testCases.TC001_AccountRegistrationTest - Dubug logs...
+2025-04-07 10:51:45,487 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Started- TC001_AccountRegistrationTest ***********
+2025-04-07 10:51:45,553 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+2025-04-07 10:51:45,555 [main] DEBUG testCases.TC001_AccountRegistrationTest - Dubug logs...
+2025-04-07 10:52:43,666 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Started- TC001_AccountRegistrationTest ***********
+2025-04-07 10:52:43,731 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+2025-04-07 10:52:43,732 [main] DEBUG testCases.TC001_AccountRegistrationTest - Dubug logs...
+2025-04-07 10:53:55,150 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Started- TC001_AccountRegistrationTest ***********
+2025-04-07 10:53:56,767 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked On Register- TC001_AccountRegistrationTest ***********
+2025-04-07 10:53:56,785 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Providing Customer Details ***********
+2025-04-07 11:06:46,391 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Started- TC001_AccountRegistrationTest ***********
+2025-04-07 11:06:48,930 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked On Register- TC001_AccountRegistrationTest ***********
+2025-04-07 11:06:48,967 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Providing Customer Details ***********
+2025-04-07 11:07:00,315 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected Details ***********
+2025-04-07 11:07:00,382 [main] INFO  testCases.TC001_AccountRegistrationTest - Finisheeeeeed logs...
+2025-04-07 11:07:33,297 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Started- TC001_AccountRegistrationTest ***********
+2025-04-07 11:07:36,783 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked On Register- TC001_AccountRegistrationTest ***********
+2025-04-07 11:07:36,787 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Providing Customer Details ***********
+2025-04-07 11:07:41,784 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected Details ***********
+2025-04-07 11:07:41,785 [main] INFO  testCases.TC001_AccountRegistrationTest - Finisheeeeeed logs...
+2025-04-07 11:09:20,406 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Started- TC001_AccountRegistrationTest ***********
+2025-04-07 11:09:23,777 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked On Register- TC001_AccountRegistrationTest ***********
+2025-04-07 11:09:23,955 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Providing Customer Details ***********
+2025-04-07 11:09:32,956 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected Details ***********
+2025-04-07 11:09:33,029 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Finisheeeeeed logs...
+2025-04-07 11:09:47,562 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******** Started- TC001_AccountRegistrationTest ***********
+2025-04-07 11:09:54,611 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked On Register- TC001_AccountRegistrationTest ***********
+2025-04-07 11:09:54,613 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******** Providing Customer Details ***********
+2025-04-07 11:09:59,546 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected Details ***********
+2025-04-07 11:09:59,547 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Finisheeeeeed logs...
+2025-04-07 11:44:15,270 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Started- TC001_AccountRegistrationTest ***********
+2025-04-07 11:44:18,101 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked On Register- TC001_AccountRegistrationTest ***********
+2025-04-07 11:44:18,120 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Providing Customer Details ***********
+2025-04-07 11:44:24,663 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected Details ***********
+2025-04-07 11:44:24,673 [main] INFO  testCases.TC001_AccountRegistrationTest - Finisheeeeeed logs...
+2025-04-07 16:55:58,675 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Started- TC001_AccountRegistrationTest ***********
+2025-04-07 16:56:02,857 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked On Register- TC001_AccountRegistrationTest ***********
+2025-04-07 16:56:02,880 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Providing Customer Details ***********
+2025-04-07 16:56:11,511 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected Details ***********
+2025-04-07 16:56:11,533 [main] INFO  testCases.TC001_AccountRegistrationTest - Finisheeeeeed logs...
+2025-04-07 18:22:35,248 [main] INFO  testCases.TC002_LoginTest - *****Loging Test Started*****
+2025-04-07 18:22:38,516 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-07 18:22:39,155 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-07 18:22:42,710 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-07 18:22:43,043 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened *****
+2025-04-07 18:22:43,157 [main] INFO  testCases.TC002_LoginTest - *****Loging Test Finished*****
+2025-04-07 18:28:00,232 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\testng.xml"
+2025-04-07 18:28:00,811 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\testng.xml
+
+2025-04-07 18:28:24,210 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-07 18:28:24,639 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-07 18:28:25,481 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-07 18:28:29,887 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-07 18:28:30,941 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened *****
+2025-04-07 18:30:24,022 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\testng.xml"
+2025-04-07 18:30:24,593 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\testng.xml
+
+2025-04-07 18:30:38,852 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-07 18:30:39,075 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-07 18:30:39,706 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-07 18:30:40,267 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-07 18:30:41,324 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened *****
+2025-04-08 12:03:51,315 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\testng.xml"
+2025-04-08 12:03:52,785 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\testng.xml
+
+2025-04-08 12:04:37,071 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Started- TC001_AccountRegistrationTest ***********
+2025-04-08 12:04:41,477 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked On Register- TC001_AccountRegistrationTest ***********
+2025-04-08 12:04:41,653 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Providing Customer Details ***********
+2025-04-08 12:04:52,070 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected Details ***********
+2025-04-08 12:04:53,911 [main] INFO  testCases.TC001_AccountRegistrationTest - Finisheeeeeed logs...
+2025-04-08 12:07:37,193 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\testng.xml"
+2025-04-08 12:07:38,990 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\testng.xml
+
+2025-04-08 12:07:57,559 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Started- TC001_AccountRegistrationTest ***********
+2025-04-08 12:07:58,911 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked On Register- TC001_AccountRegistrationTest ***********
+2025-04-08 12:07:59,006 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Providing Customer Details ***********
+2025-04-08 12:08:03,929 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected Details ***********
+2025-04-08 12:08:04,198 [main] INFO  testCases.TC001_AccountRegistrationTest - Finisheeeeeed logs...
+2025-04-08 14:00:17,738 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\testng.xml"
+2025-04-08 14:00:25,546 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\testng.xml
+
+2025-04-08 14:01:21,037 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-08 14:01:21,045 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-08 14:01:21,055 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-08 14:01:26,427 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-08 14:01:28,765 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-08 14:01:28,770 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-08 14:01:28,774 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-08 14:01:28,821 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-08 14:01:28,870 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-08 14:01:28,874 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-08 14:01:28,878 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-08 14:01:28,909 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-08 14:01:28,991 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-08 14:01:28,999 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-08 14:01:29,006 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-08 14:01:29,027 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-08 14:01:29,062 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-08 14:01:29,066 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-08 14:01:29,069 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-08 14:01:29,091 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-08 14:01:29,118 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-08 14:01:29,120 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-08 14:01:29,121 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-08 14:01:29,136 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-08 14:01:29,160 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-08 14:01:29,161 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-08 14:01:29,162 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-08 14:01:29,176 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-08 14:01:29,201 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-08 14:01:29,203 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-08 14:01:29,205 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-08 14:01:29,222 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-08 14:01:30,055 [main] INFO  testCases.TC003_LoginDDT - ********LogDDt Started*******
+2025-04-08 14:01:40,217 [main] INFO  testCases.TC003_LoginDDT - ********LogDDt In MyAccount*******
+2025-04-08 14:01:40,218 [main] INFO  testCases.TC003_LoginDDT - ********LogDDt Finished*******
+2025-04-08 14:01:40,238 [main] INFO  testCases.TC003_LoginDDT - ********LogDDt Started*******
+2025-04-08 14:01:44,337 [main] INFO  testCases.TC003_LoginDDT - ********LogDDt In MyAccount*******
+2025-04-08 14:01:44,338 [main] INFO  testCases.TC003_LoginDDT - ********LogDDt Finished*******
+2025-04-08 14:01:44,369 [main] INFO  testCases.TC003_LoginDDT - ********LogDDt Started*******
+2025-04-08 14:09:54,821 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\testng.xml"
+2025-04-08 14:09:55,630 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\testng.xml
+
+2025-04-08 14:10:40,405 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-08 14:10:40,411 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-08 14:10:40,416 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-08 14:10:41,526 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-08 14:10:41,767 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-08 14:10:41,771 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-08 14:10:41,774 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-08 14:10:41,802 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-08 14:10:41,843 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-08 14:10:41,846 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-08 14:10:41,849 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-08 14:10:41,876 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-08 14:10:41,922 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-08 14:10:41,927 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-08 14:10:41,930 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-08 14:10:41,957 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-08 14:10:41,991 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-08 14:10:41,993 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-08 14:10:41,996 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-08 14:10:42,018 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-08 14:10:42,052 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-08 14:10:42,054 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-08 14:10:42,057 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-08 14:10:42,076 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-08 14:10:42,114 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-08 14:10:42,116 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-08 14:10:42,119 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-08 14:10:42,135 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-08 14:10:42,166 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-08 14:10:42,169 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-08 14:10:42,172 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-08 14:10:42,196 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-08 14:10:42,314 [main] INFO  testCases.TC003_LoginDDT - ********LogDDt Started*******
+2025-04-08 14:10:49,722 [main] INFO  testCases.TC003_LoginDDT - ********LogDDt In MyAccount*******
+2025-04-08 14:10:49,723 [main] INFO  testCases.TC003_LoginDDT - ********LogDDt Finished*******
+2025-04-08 14:10:49,733 [main] INFO  testCases.TC003_LoginDDT - ********LogDDt Started*******
+2025-04-08 14:10:52,544 [main] INFO  testCases.TC003_LoginDDT - ********LogDDt In MyAccount*******
+2025-04-08 14:10:52,544 [main] INFO  testCases.TC003_LoginDDT - ********LogDDt Finished*******
+2025-04-08 14:10:52,563 [main] INFO  testCases.TC003_LoginDDT - ********LogDDt Started*******
+2025-04-08 19:12:55,038 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-08 19:12:55,909 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-08 19:15:47,124 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-08 19:15:47,808 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-08 19:17:20,602 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-08 19:17:21,161 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-08 19:18:16,718 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Started- TC001_AccountRegistrationTest ***********
+2025-04-08 19:18:28,030 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked On Register- TC001_AccountRegistrationTest ***********
+2025-04-08 19:18:29,799 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Providing Customer Details ***********
+2025-04-08 19:18:30,617 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+2025-04-08 19:18:30,618 [main] DEBUG testCases.TC001_AccountRegistrationTest - Dubug logs...
+2025-04-08 19:18:48,075 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-08 19:18:48,383 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-08 19:18:49,267 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-08 19:23:10,665 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-08 19:23:11,205 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-08 19:23:21,758 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Started- TC001_AccountRegistrationTest ***********
+2025-04-08 19:23:23,220 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked On Register- TC001_AccountRegistrationTest ***********
+2025-04-08 19:23:23,239 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Providing Customer Details ***********
+2025-04-08 19:23:46,530 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+2025-04-08 19:23:46,531 [main] DEBUG testCases.TC001_AccountRegistrationTest - Dubug logs...
+2025-04-08 19:24:01,872 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-08 19:24:02,029 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-08 19:24:02,661 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-08 19:24:04,831 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-08 19:24:05,631 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened *****
+2025-04-08 19:24:47,322 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-08 19:24:48,425 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-08 19:24:58,550 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-08 19:24:58,725 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-08 19:24:59,392 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-08 19:25:01,365 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-08 19:25:01,444 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened *****
+2025-04-08 19:27:52,841 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-08 19:27:53,411 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-08 19:28:05,147 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-08 19:28:05,373 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-08 19:28:05,921 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-08 19:28:06,422 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-08 19:28:07,416 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened *****
+2025-04-08 19:28:07,421 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-08 19:29:48,299 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-08 19:29:48,845 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-08 19:29:59,039 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-08 19:29:59,255 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-08 19:29:59,875 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-08 19:30:00,404 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-08 19:30:05,987 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****true
+2025-04-08 19:30:05,993 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-08 19:31:09,722 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-08 19:31:10,217 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-08 19:31:20,556 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-08 19:31:20,740 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-08 19:31:21,479 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-08 19:31:21,981 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-08 19:31:22,977 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-08 19:31:22,982 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-08 19:48:23,149 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\master.xml"
+2025-04-08 19:48:30,873 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\master.xml
+
+2025-04-08 19:48:49,849 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\master.xml"
+2025-04-08 19:48:50,617 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\master.xml
+
+2025-04-08 19:49:17,504 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Started- TC001_AccountRegistrationTest ***********
+2025-04-08 19:49:21,136 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked On Register- TC001_AccountRegistrationTest ***********
+2025-04-08 19:49:21,157 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Providing Customer Details ***********
+2025-04-08 19:49:30,355 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected Details ***********
+2025-04-08 19:49:30,401 [main] INFO  testCases.TC001_AccountRegistrationTest - Finisheeeeeed logs...
+2025-04-08 19:50:31,099 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Started- TC001_AccountRegistrationTest ***********
+2025-04-08 19:50:41,148 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked On Register- TC001_AccountRegistrationTest ***********
+2025-04-08 19:50:41,151 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Providing Customer Details ***********
+2025-04-08 19:50:49,459 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected Details ***********
+2025-04-08 19:50:49,459 [main] INFO  testCases.TC001_AccountRegistrationTest - Finisheeeeeed logs...
+2025-04-08 19:51:12,778 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-08 19:51:13,580 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-08 19:51:15,363 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-08 19:51:17,654 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-08 19:51:17,964 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-08 19:51:17,965 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 17:08:28,459 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 17:08:30,108 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 17:10:03,926 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 17:10:04,407 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 17:10:48,757 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 17:10:49,317 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 17:14:12,663 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 17:14:13,186 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 17:20:22,013 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 17:20:22,565 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 17:21:58,527 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 17:21:59,831 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 17:22:00,407 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 17:22:05,975 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 17:22:07,406 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 17:22:07,519 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 17:26:57,280 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 17:27:09,342 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 17:30:21,467 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 17:30:22,022 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 17:31:10,119 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 17:31:11,818 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 17:31:12,597 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 17:31:13,618 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 17:31:14,998 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 17:31:15,037 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 17:37:26,138 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 17:37:28,184 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 17:38:03,490 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 17:38:04,427 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 17:38:05,062 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 17:38:06,048 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 17:38:07,076 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 17:38:07,273 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 17:52:49,925 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 17:52:56,281 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 17:53:29,700 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 17:53:32,906 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 17:53:33,448 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 17:53:35,474 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 17:53:36,968 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 17:53:37,181 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 17:56:48,510 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 17:56:49,487 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 17:57:27,847 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 17:57:28,629 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 17:57:29,747 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 17:57:33,796 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 17:57:34,991 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 17:57:35,200 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 18:03:11,031 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 18:03:11,728 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 18:03:35,342 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 18:03:36,223 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 18:03:36,888 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 18:03:38,417 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 18:03:38,523 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 18:03:38,528 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 18:07:36,312 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 18:07:36,804 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 18:07:56,154 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 18:07:56,321 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 18:07:57,113 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 18:07:57,614 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 18:07:58,837 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 18:07:58,842 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 18:09:07,982 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 18:09:08,555 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 18:09:23,367 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 18:09:23,572 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 18:09:24,176 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 18:09:24,678 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 18:09:25,722 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 18:09:25,726 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 18:16:30,172 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 18:16:30,740 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 18:16:41,669 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 18:16:41,962 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 18:16:42,513 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 18:16:43,064 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 18:16:44,086 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 18:16:44,090 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 18:19:35,926 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 18:19:36,464 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 18:22:37,769 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 18:22:38,276 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 18:22:54,805 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 18:22:55,106 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 18:22:56,965 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 18:23:02,578 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 18:23:02,687 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 18:23:02,691 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 18:25:06,013 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 18:25:06,525 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 18:25:17,586 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 18:25:17,777 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 18:25:18,994 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 18:25:20,680 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 18:25:20,754 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 18:25:20,759 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 18:34:25,022 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 18:34:25,627 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 18:35:11,808 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 18:35:13,253 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 18:35:13,994 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 18:35:18,004 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 18:35:18,410 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 18:35:18,566 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 18:39:40,087 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 18:39:40,682 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 18:39:55,438 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 18:39:55,657 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 18:39:56,209 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 18:39:57,138 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 18:39:58,229 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 18:39:58,235 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 18:41:00,259 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 18:41:00,791 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 18:41:09,984 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 18:41:10,193 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 18:41:10,747 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 18:41:11,289 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 18:41:12,512 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 18:41:12,517 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 18:42:18,205 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 18:42:18,704 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 18:42:28,082 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 18:42:28,334 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 18:42:28,894 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 18:42:29,413 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 18:42:30,480 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 18:42:30,487 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 18:43:57,317 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 18:43:57,825 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 18:44:07,378 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 18:44:07,569 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 18:44:08,151 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 18:44:09,774 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 18:44:09,859 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 18:44:09,865 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 18:44:55,098 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 18:44:55,588 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 18:45:10,542 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 18:45:10,708 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 18:45:11,310 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 18:45:12,761 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 18:45:12,842 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 18:45:12,850 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 18:46:24,507 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 18:46:24,999 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 18:46:36,348 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 18:46:36,613 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 18:46:37,236 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 18:46:38,980 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 18:46:39,060 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 18:46:39,064 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 18:48:23,272 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 18:48:24,317 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 18:48:59,135 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 18:48:59,781 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 18:49:00,612 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 18:49:03,306 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 18:49:03,444 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 18:49:03,588 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 18:55:17,846 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 18:55:20,098 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 18:55:58,578 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 18:55:59,500 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 18:56:00,080 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 18:56:01,172 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 18:56:02,360 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 18:56:02,437 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 18:57:08,374 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 18:57:08,947 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 18:57:20,861 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 18:57:21,063 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 18:57:21,804 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 18:57:27,581 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 18:57:28,128 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 18:57:28,238 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 18:59:10,148 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 18:59:10,656 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 18:59:29,076 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 18:59:29,325 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 18:59:29,911 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 18:59:30,396 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 18:59:32,034 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 18:59:32,038 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 19:03:30,625 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 19:03:31,141 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 19:03:44,058 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 19:03:44,252 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 19:03:45,021 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 19:03:46,362 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 19:03:46,447 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 19:03:46,452 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-09 19:04:36,500 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-09 19:04:37,001 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-09 19:04:48,206 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-09 19:04:48,458 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-09 19:04:49,016 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-09 19:04:49,497 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-09 19:04:50,500 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-09 19:04:50,505 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-10 12:23:06,482 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-10 12:23:07,569 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-10 12:24:06,389 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-10 12:24:08,811 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-10 12:24:10,362 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-10 12:24:17,106 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-10 12:24:17,326 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-10 12:24:17,338 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-10 12:31:52,242 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-10 12:31:52,951 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-10 12:32:34,052 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-10 12:32:35,118 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-10 12:32:35,927 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-10 12:32:43,644 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-10 12:32:43,872 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-10 12:32:43,922 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-10 12:36:48,546 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\master.xml"
+2025-04-10 12:36:55,182 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\master.xml
+
+2025-04-10 12:37:16,488 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Started- TC001_AccountRegistrationTest ***********
+2025-04-10 12:37:19,081 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked On Register- TC001_AccountRegistrationTest ***********
+2025-04-10 12:37:19,844 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Providing Customer Details ***********
+2025-04-10 12:37:25,866 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected Details ***********
+2025-04-10 12:37:25,914 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Finisheeeeeed logs...
+2025-04-10 12:39:55,509 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-10 12:39:56,027 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-10 12:40:11,363 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-10 12:40:11,886 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-10 12:40:13,092 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-10 12:40:14,641 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-10 12:40:16,449 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-10 12:40:16,463 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-10 12:41:12,985 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\master.xml"
+2025-04-10 12:41:13,617 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\master.xml
+
+2025-04-10 12:41:33,959 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Started- TC001_AccountRegistrationTest ***********
+2025-04-10 12:41:36,146 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked On Register- TC001_AccountRegistrationTest ***********
+2025-04-10 12:41:36,251 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Providing Customer Details ***********
+2025-04-10 12:41:53,011 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected Details ***********
+2025-04-10 12:41:53,419 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Finisheeeeeed logs...
+2025-04-10 12:43:01,815 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\master.xml"
+2025-04-10 12:43:02,730 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\master.xml
+
+2025-04-10 12:43:23,057 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Started- TC001_AccountRegistrationTest ***********
+2025-04-10 12:43:25,185 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked On Register- TC001_AccountRegistrationTest ***********
+2025-04-10 12:43:25,209 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Providing Customer Details ***********
+2025-04-10 12:43:30,429 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected Details ***********
+2025-04-10 12:43:30,442 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Finisheeeeeed logs...
+2025-04-10 12:46:16,899 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-10 12:46:17,397 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-10 12:46:29,573 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-10 12:46:30,264 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-10 12:46:31,007 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-10 12:46:32,110 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-10 12:46:33,118 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-10 12:46:33,125 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-11 09:03:52,663 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\master.xml"
+2025-04-11 09:05:51,246 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\testng.xml"
+2025-04-11 09:05:56,436 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-11 09:05:56,442 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-11 09:05:56,447 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-11 09:06:00,499 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-11 09:06:01,706 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-11 09:06:01,708 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-11 09:06:01,711 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-11 09:06:01,741 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-11 09:06:01,770 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-11 09:06:01,773 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-11 09:06:01,776 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-11 09:06:01,796 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-11 09:06:01,845 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-11 09:06:01,847 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-11 09:06:01,850 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-11 09:06:01,875 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-11 09:06:01,919 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-11 09:06:01,923 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-11 09:06:01,926 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-11 09:06:01,964 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-11 09:06:02,003 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-11 09:06:02,005 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-11 09:06:02,009 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-11 09:06:02,031 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-11 09:06:02,070 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-11 09:06:02,075 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-11 09:06:02,077 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-11 09:06:02,093 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-11 09:06:02,134 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-11 09:06:02,136 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-11 09:06:02,139 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-11 09:06:02,179 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-04-11 09:08:29,122 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-11 09:09:12,812 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-11 09:09:13,430 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-11 09:10:07,987 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-11 09:10:08,477 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-11 09:10:29,306 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-11 09:10:29,872 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-11 09:11:34,137 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\master.xml"
+2025-04-11 09:11:34,732 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\master.xml
+
+2025-04-11 09:12:43,719 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-11 09:12:44,188 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\SeleApps\OpenCartV121\grouping.xml
+
+2025-04-11 09:13:49,200 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-11 09:13:51,414 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-11 09:13:53,966 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-11 09:13:58,315 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-11 09:13:58,890 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-11 09:13:58,917 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-11 09:14:59,882 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-11 09:15:23,670 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-11 09:15:25,385 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-11 09:15:28,038 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-11 09:15:28,578 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-11 09:15:29,887 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-11 09:15:29,948 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-11 10:43:14,007 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-11 10:43:54,189 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-11 10:43:56,193 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-11 10:43:57,210 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-11 10:44:00,731 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-11 10:44:00,826 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-11 10:44:01,054 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-11 10:48:52,929 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-11 10:49:06,955 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-11 10:49:07,803 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-11 10:49:09,189 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-11 10:49:11,623 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-11 10:49:11,721 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-11 10:49:11,726 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-11 10:55:25,092 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-11 11:01:34,132 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-11 11:02:01,169 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-11 11:02:02,259 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-11 11:02:03,301 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-11 11:02:05,384 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-11 11:02:05,469 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-11 11:02:05,529 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-11 11:03:59,661 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-11 11:04:33,655 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-11 11:04:35,360 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-11 11:04:36,188 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-11 11:04:36,858 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-11 11:04:38,082 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-11 11:04:38,172 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-11 11:06:33,103 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
+2025-04-11 11:06:58,679 [main] INFO  testCases.TC002_LoginTest - *****Login Test Started*****
+2025-04-11 11:07:00,245 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On MyAccount *****
+2025-04-11 11:07:01,963 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login *****
+2025-04-11 11:07:06,916 [main] INFO  testCases.TC002_LoginTest - ***** Clicked On Login button *****
+2025-04-11 11:07:07,294 [main] INFO  testCases.TC002_LoginTest - ***** MyAccount Page Opened-{lblMyAccount} *****	true
+2025-04-11 11:07:07,325 [main] INFO  testCases.TC002_LoginTest - *****Login Test Finished*****
+2025-04-11 11:08:17,615 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\SeleApps\OpenCartV121\grouping.xml"
