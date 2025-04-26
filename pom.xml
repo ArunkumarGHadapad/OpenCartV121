@@ -1,5 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
+<<<<<<< HEAD
   <groupId>OpenCartV121</groupId>
   <artifactId>OpenCartV121</artifactId>
   <version>0.0.1-SNAPSHOT</version>
@@ -33,10 +34,17 @@
   
   
   <dependencies>
+=======
+  <groupId>AutoEx</groupId>
+  <artifactId>AutoEx</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+<dependencies>  
+>>>>>>> 32a351c65f697370896e02a232e42208e51e1396
   <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
+<<<<<<< HEAD
     <version>4.30.0</version>
 </dependency>
 
@@ -85,10 +93,23 @@
     <version>2.18.0</version>
 </dependency>
 
+=======
+    <version>4.29.0</version>
+</dependency>
+
+
+<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
+<dependency>
+    <groupId>io.github.bonigarcia</groupId>
+    <artifactId>webdrivermanager</artifactId>
+    <version>5.9.3</version>
+</dependency>
+>>>>>>> 32a351c65f697370896e02a232e42208e51e1396
 <!-- https://mvnrepository.com/artifact/org.testng/testng -->
 <dependency>
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
+<<<<<<< HEAD
     <version>7.11.0</version>
     <scope>test</scope>
 </dependency>
@@ -103,4 +124,15 @@
 
   </dependencies>
   
+=======
+    <version>7.10.2</version>
+    <scope>test</scope>
+</dependency>
+
+
+</dependencies>
+
+
+
+>>>>>>> 32a351c65f697370896e02a232e42208e51e1396
 </project>

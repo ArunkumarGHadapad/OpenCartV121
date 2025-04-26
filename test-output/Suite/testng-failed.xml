@@ -2,6 +2,7 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <listeners>
+<<<<<<< HEAD
     <listener class-name="utilities.ExtentReportManager"/>
   </listeners>
   <test thread-count="5" name="chromeTest(failed)">
@@ -17,4 +18,19 @@
       </class> <!-- testCases.TC002_LoginTest -->
     </classes>
   </test> <!-- chromeTest(failed) -->
+=======
+    <listener class-name="Day46.MyListner"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="Day46.OrangeHRM">
+        <methods>
+          <include name="Search"/>
+          <include name="Openapp"/>
+          <include name="Login"/>
+        </methods>
+      </class> <!-- Day46.OrangeHRM -->
+    </classes>
+  </test> <!-- Test(failed) -->
+>>>>>>> 32a351c65f697370896e02a232e42208e51e1396
 </suite> <!-- Failed suite [Suite] -->
